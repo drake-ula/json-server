@@ -1,0 +1,20 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "firstName": "Arthur",
+            "middleName": "Lyle",
+            "lastName": "Morgan",
+            "suffix": "",
+            "studentNumber": "1863318551"
+        },
+        {
+            "id": 2,
+            "firstName": "Kieran",
+            "middleName": "",
+            "lastName": "Duffy",
+            "suffix": "",
+            "studentNumber": "1872318551"
+        }
+    ]
+}
